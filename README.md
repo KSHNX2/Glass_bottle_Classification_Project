@@ -1,4 +1,4 @@
-# Network topology
+# Network Topology
 ![병 판별 데이터 분석 및 웹 서비스 네트워크 토폴로지](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/3ab1d5ef-4ba9-4e67-9395-38a91b91a758)
 
 # System Architecture
