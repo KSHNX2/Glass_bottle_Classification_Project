@@ -1,0 +1,13 @@
+package com.example.demo.service;
+
+import java.util.List;
+
+import com.example.demo.domain.MemberVO;
+
+public interface MemberService {
+	List<MemberVO> getMemberList(MemberVO memberVO);
+	void insertMember(MemberVO memberVO);
+	MemberVO getMember(MemberVO memberVO);
+	void updateMember(MemberVO memberVO);
+	void deleteMember(MemberVO memberVO);
+}

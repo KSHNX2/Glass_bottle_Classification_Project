@@ -1,0 +1,46 @@
+package com.example.demo.domain;
+
+public class MemberVO {
+	private int num;
+	private String name;
+	private String pass;
+	private Date date;
+
+	public int getNum() {
+		return num;
+	}
+
+	public void setNum(int num) {
+		this.num = num;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getPass() {
+		return pass;
+	}
+
+	public void setPass(String pass) {
+		this.pass = pass;
+	}
+
+	public Date getDate() {
+		return date;
+	}
+
+	public void setDate(Date date) {
+		this.date = date;
+	}
+
+	@Override
+	public String toString() {
+		return "Member_H2 [num=" + num + ", name=" + name + ", pass=" + pass + ", date=" + date + "]";
+	}
+	
+}

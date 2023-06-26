@@ -1,0 +1,21 @@
+package com.example.demo.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.example.demo.domain.MemberVO;
+import com.example.demo.service.MemberService;
+
+public class MenberController {
+	@Autowired
+	private MemberService memberService;
+	
+	@RequestMapping("/getMember")
+	public String getMemberList(Model model, MemberVO memberVO) {
+		List<MemberVO> memberList = memberService.getBoardList(memberVO);
+		model.addAttribute("MemberList", memberList);
+		return "getBoardList";
+	}
+	
+}

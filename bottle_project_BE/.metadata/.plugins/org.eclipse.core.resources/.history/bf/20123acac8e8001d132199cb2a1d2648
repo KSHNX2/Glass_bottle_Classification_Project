@@ -1,0 +1,35 @@
+package com.example.demo.controller;
+
+
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.domain.MemberVO;
+import com.example.demo.service.MemberService;
+@RestController
+public class MenberController {
+	@Autowired
+	private MemberService memberService;
+	
+	@GetMapping("/getMember")
+	public List<MemberVO> getMemberList() {
+		return memberService.getMemberList();
+	}
+	
+	@PostMapping("/insertMember")
+	public void insertMember(MemberVO memberVO) {
+		memberService.insertMember(memberVO);
+	}
+	
+	@DeleteMapping("/deleteMember")
+	public void deleteMember(MemberVO memberVO) {
+		memberService.deleteMember(memberVO);
+	}
+	
+}

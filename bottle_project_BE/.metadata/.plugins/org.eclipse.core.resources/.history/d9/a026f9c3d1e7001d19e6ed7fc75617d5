@@ -1,0 +1,29 @@
+package com.example.demo.controller;
+
+
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.example.demo.domain.MemberVO;
+import com.example.demo.service.MemberService;
+@Controller
+public class MenberController {
+	@Autowired
+	private MemberService memberService;
+	
+	@GetMapping("/getMember")
+	public List<MemberVO> getMemberList() {
+		return memberService.getMemberList();
+	}
+	
+	@PostMapping("/insertBoard")
+	public void insertBoard(MemberVO memberVO) {
+		memberService.insertMember(memberVO);
+	}
+	
+}

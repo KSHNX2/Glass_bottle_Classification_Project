@@ -1,0 +1,13 @@
+package com.example.demo.service;
+
+import com.example.demo.controller.List;
+import com.example.demo.domain.MemberVO;
+
+public class MemberService {
+
+	public List<MemberVO> getBoardList(MemberVO memberVO) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
