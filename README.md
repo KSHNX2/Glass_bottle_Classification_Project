@@ -1,4 +1,5 @@
-(https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/cbe47db7-f639-4ba4-b59e-dd8e08d067ae)
+# Network topology
+![병 판별 데이터 분석 및 웹 서비스 네트워크 토폴로지](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/cbe47db7-f639-4ba4-b59e-dd8e08d067ae)
 
 # System Architecture
 ![병 판별 데이터 분석 및 웹 서비스 설계서_2](https://github.com/parkjunyeongg/bottle-project/assets/122770606/0ef1529b-0642-4467-9b75-23601e7767de)
