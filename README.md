@@ -15,7 +15,7 @@ Ubuntu 20.04 LTS 환경설정
 * bottle4.iptime.org
 * bottle4.asuscomm.com
 
-#VPN 
+# VPN 
 * PPTP
 * Gateway 192.168.1.1
 * Local ip 192.168.1.2
