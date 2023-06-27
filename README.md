@@ -8,6 +8,8 @@
 # Spring Boot Class Diagram
 ![스프링 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/1ea8f490-c7af-4930-b7d3-ebaf9ff07f4f)
 
+# Project Sequence Diagram
+![병 판별 데이터 분석 및 웹 서비스 설계서 (1) (1)](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/73386a95-cdfc-4164-ba31-dc26159f8aa1)
 
 
 
