@@ -5,7 +5,8 @@
 ![병 판별 데이터 분석 및 웹 서비스 설계서_2](https://github.com/parkjunyeongg/bottle-project/assets/122770606/0ef1529b-0642-4467-9b75-23601e7767de)
 
 # Spring Boot Class Diagram
-![0602](https://github.com/parkjunyeongg/bottle-project/assets/122770606/9fe10031-42d4-4346-bd4d-9c71a4d88819)
+![스프링 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/1ea8f490-c7af-4930-b7d3-ebaf9ff07f4f)
+
 
 
 Ubuntu 20.04 LTS 환경설정
