@@ -36,6 +36,8 @@ Ubuntu 20.04 LTS 환경설정
   - yolov5 설치에러 해결중 
 - 외부 flask 서버를 배치함으로 해결함
 
+- 원활한 CUDA사용을 위해 window에서 flask를 운용하는것으로 변경
+
 # JAVA
 - OpenJDK 1.8
 
@@ -44,6 +46,7 @@ Ubuntu 20.04 LTS 환경설정
 - springsecurity 개발중
 - ## REST_API
   - react 사진 다운로드 서비스 개발시 @RequestParm, Blob형식 사용
+- 데이터 로그 검색 필터를 개발하기 위해 QueryDSL 사용
 
 # HTTPS 사용을 위한 테스트 SSL 인증서 발급
 ## 환경 : window10, openssl 환경변수 설정
