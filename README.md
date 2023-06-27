@@ -3,7 +3,7 @@
 
 # System Architecture
 ![시스템 구성도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/776fa704-6230-4200-beeb-1596b085edec)
-![병 판별 데이터 분석 및 웹 서비스 설계서_2](https://github.com/parkjunyeongg/bottle-project/assets/122770606/0ef1529b-0642-4467-9b75-23601e7767de)
+![시스템 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/3b78ff32-a8f7-46c1-a920-2722680ef789)
 
 # Spring Boot Class Diagram
 ![스프링 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/1ea8f490-c7af-4930-b7d3-ebaf9ff07f4f)
