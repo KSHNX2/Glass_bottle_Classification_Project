@@ -6,7 +6,8 @@
 ![시스템 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/3b78ff32-a8f7-46c1-a920-2722680ef789)
 
 # Spring Boot Class Diagram
-![0628](https://github.com/KSHNX2/Glass_bottle_Classification_Project/assets/122770606/0d1a55ab-3373-4818-977f-0c11d4828ea1)
+![0628](https://github.com/KSHNX2/Glass_bottle_Classification_Project/assets/122770606/05231a71-d776-4769-98d1-f37e9dcb7502)
+
 
 
 # Project Sequence Diagram
