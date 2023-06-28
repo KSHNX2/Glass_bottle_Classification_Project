@@ -6,7 +6,8 @@
 ![시스템 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/3b78ff32-a8f7-46c1-a920-2722680ef789)
 
 # Spring Boot Class Diagram
-![스프링 설계도](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/1ea8f490-c7af-4930-b7d3-ebaf9ff07f4f)
+![0628](https://github.com/KSHNX2/Glass_bottle_Classification_Project/assets/122770606/0d1a55ab-3373-4818-977f-0c11d4828ea1)
+
 
 # Project Sequence Diagram
 ![병 판별 데이터 분석 및 웹 서비스 설계서 (1) (1)](https://github.com/KSHNX2/bottle_discrimination_project/assets/122770606/73386a95-cdfc-4164-ba31-dc26159f8aa1)
